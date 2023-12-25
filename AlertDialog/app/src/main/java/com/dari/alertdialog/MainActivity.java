@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         alert.setNegativeButton("No", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {
-                Toast.makeText(getApplicationContext(),"YARRAKI YEDİ",Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(),"!!!!!",Toast.LENGTH_LONG).show();
             }
         });
 
